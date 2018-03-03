@@ -1,0 +1,73 @@
+[33mcommit d51a4ad0644978d9ae2c6bea22baa1807c4d1cd6[m
+Author: rahmatchaniago <rahmatchaniago28@gmail.com>
+Date:   Sat Feb 17 16:52:49 2018 +0700
+
+    menambahkan coba1.txt pada brach coba
+
+[33mcommit 5f1d8f91eaad06c0e4b76cb57ea8ef61dadb9350[m
+Merge: 1e9f41e 2639058
+Author: rahmatchaniago <rahmatchaniago28@gmail.com>
+Date:   Sat Feb 17 16:42:06 2018 +0700
+
+    delete header
+
+[33mcommit 2639058848c158747598b39d3290cf5c9f79977d[m
+Author: fadlymridho <fadlymuhammadridho@gmail.com>
+Date:   Sat Feb 17 16:35:09 2018 +0700
+
+    perubahan fadly
+
+[33mcommit 59491d81386fc69b55e34a0ab0403fa23c105c93[m
+Author: fadlymridho <fadlymuhammadridho@gmail.com>
+Date:   Sat Feb 17 16:33:36 2018 +0700
+
+    perubahan fadly
+
+[33mcommit 1e9f41eb32733750b79db56a4bb902e033f5dcfc[m
+Author: rahmatchaniago <rahmatchaniago28@gmail.com>
+Date:   Sat Feb 17 16:33:35 2018 +0700
+
+    skenario3 no.4
+
+[33mcommit f907d751848fe10940c1413e38d340a90a00bfa1[m
+Author: fadlymridho <fadlymuhammadridho@gmail.com>
+Date:   Sat Feb 17 15:45:37 2018 +0700
+
+    Perubahan dari Fadly - v1 BARURU
+
+[33mcommit 8a5bb1ea0da629fbe4328840df626d292d3f73ba[m
+Merge: 9d753b2 c1217ae
+Author: fadlymridho <fadlymuhammadridho@gmail.com>
+Date:   Sat Feb 17 15:26:01 2018 +0700
+
+    Merge https://github.com/rahmatchaniago/APAP
+
+[33mcommit c1217aeefabe275f1533d73443ae539d4e433afa[m
+Author: rahmatchaniago <rahmatchaniago28@gmail.com>
+Date:   Sat Feb 17 15:25:00 2018 +0700
+
+    tambahkan file demo.txt
+
+[33mcommit 9d753b24029526705f0f98ed0d140f88a919fcdc[m
+Author: fadlymridho <fadlymuhammadridho@gmail.com>
+Date:   Sat Feb 17 15:12:26 2018 +0700
+
+    commit tutorial 1 v1
+
+[33mcommit 0abaff665c64d6ee038b15736784867892a523e0[m
+Author: rahmatchaniago <rahmatchaniago28@gmail.com>
+Date:   Sat Feb 17 09:35:23 2018 +0700
+
+    tambahkan file demo.txt
+
+[33mcommit e7c496236eb6fa4296e2945b15ef16354a2af20c[m
+Author: rahmatchaniago <rahmatchaniago28@gmail.com>
+Date:   Sat Feb 17 09:26:48 2018 +0700
+
+    tambahkan file demo.txt
+
+[33mcommit f23a71c10a1eb5c9dd0f21cc48ca73c8d0d81447[m
+Author: root <root>
+Date:   Sat Feb 17 08:58:42 2018 +0700
+
+    demo scenario 1 lab01
